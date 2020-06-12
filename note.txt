@@ -1,0 +1,15 @@
+These are the list of works done here:
+
+index.html ==> load page
+index1.html ==> mainpage
+nnp.html ==> notes & project home page
+	Projects ==> nnp.html
+	Notes ==> loadnotesindex.html ==> load page
+		  load-notes-index.html ==> mainpage
+logodesign.html ==> logodesign home page
+webdesign.html ==> webdesign home page
+
+	Folder ==> semnotes
+	comingsoon.html ==> coming soon page of Notes
+	newsitecomingsoon.html ==> coming soon page of indexpage(main page)
+

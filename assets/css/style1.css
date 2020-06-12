@@ -1,0 +1,44 @@
+.card-container {
+    margin: 70px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    grid-gap: 80px;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 1px 5px #cccccc;
+}
+
+.card:hover {
+    box-shadow: 0 14px 28px #0c0c0c;
+}
+
+h4{
+  color: aliceblue;
+}
+
+/* FOR DOWNLOAD BUTTON */
+
+.btn {
+  background-color:   ;
+  border: none;
+  color: #f36100;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: #f36100;
+  color: #242425;
+  border: 2px solid #ffff;
+}
+
+
+/* Grids for subjects */
+
+
+

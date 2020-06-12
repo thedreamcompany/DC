@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Gugi:400,100,300,500,700);
+
+body {
+  background: url("../img/hero-bg.png");
+  color:#999;
+  font-family:Gugi;
+}
+
+h1{
+  font-weight:100;
+  font-size:35px;
+  color:#f36100;
+}
+
+p{font-weight:100;  font-size:25px;}
+a{font-weight:100;  font-size:25px;  color:#f36100;}
+
+.warning-content {
+	position:absolute;
+  top:15%;
+  width:100%;
+  height:300px;
+  text-align:center;
+  margin:0;
+  
+  
+}

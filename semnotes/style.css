@@ -1,0 +1,35 @@
+.comment {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: solid 1px #f36100;
+}
+.margin-sm-bottom {
+  margin-bottom: 5px;
+}
+.margin-md-bottom {
+  margin-bottom: 20px;
+}
+
+.btn {
+  background-color: transparent;
+  border: none;
+  color: #f36100;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.comment-header{
+  color: #f36100;
+  font-family: Gugi;
+  font-size: 16px;
+}
+
+.comment-body{
+  font-size: 13px;
+  color: #fff;
+  font-family: Gugi;
+}
+h3{
+  color: whitesmoke;
+}
